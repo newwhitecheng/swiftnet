@@ -1,4 +1,7 @@
 # SwiftNet: Using Graph Propagation as Meta-knowledge to Search Highly Representative Neural Architectures [[arXiv]](https://arxiv.org/abs/1906.08305)
+<p align="center">
+<img src="finalF_large.gif" alt="progress_convolutional_normal" width="250%">
+</p>
 
 ```bash
 @article{DBLP:journals/corr/abs-1906-08305,
@@ -25,6 +28,3 @@
 ```
 
 
-<p align="center">
-<img src="finalF_large.gif" alt="progress_convolutional_normal" width="250%">
-</p>
